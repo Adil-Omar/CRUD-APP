@@ -1,0 +1,25 @@
+.input{
+    background: linear-gradient(135deg ,rgb(68, 68, 246),rgb(242, 72, 242));
+    padding: 30px 100px 50px 100px;
+    margin: 0 300px;
+}
+label{
+    display: block;
+    font-size: x-large;
+    margin: 10px 0;
+}
+button{
+    display: block;
+    margin-top: 30px;
+    font-size: larger;
+    padding: 10px 20px;
+    outline: none;
+    border: none;
+}
+input{
+    outline: none;
+    padding: 3px;
+    width: 600px;
+    font-size: x-large;
+    margin: 0 150px;
+}
